@@ -1,0 +1,10 @@
+C:\Users\HP\Documents\Проекты Вани\Проекты по программированию 9.5\Решение 1\Минизадача 2\bin\Debug\Минизадача 2.exe.config
+C:\Users\HP\Documents\Проекты Вани\Проекты по программированию 9.5\Решение 1\Минизадача 2\bin\Debug\Минизадача 2.exe
+C:\Users\HP\Documents\Проекты Вани\Проекты по программированию 9.5\Решение 1\Минизадача 2\bin\Debug\Минизадача 2.pdb
+C:\Users\HP\Documents\Проекты Вани\Проекты по программированию 9.5\Решение 1\Минизадача 2\obj\Debug\Минизадача 2.csprojAssemblyReference.cache
+C:\Users\HP\Documents\Проекты Вани\Проекты по программированию 9.5\Решение 1\Минизадача 2\obj\Debug\Минизадача_2.Form1.resources
+C:\Users\HP\Documents\Проекты Вани\Проекты по программированию 9.5\Решение 1\Минизадача 2\obj\Debug\Минизадача_2.Properties.Resources.resources
+C:\Users\HP\Documents\Проекты Вани\Проекты по программированию 9.5\Решение 1\Минизадача 2\obj\Debug\Минизадача 2.csproj.GenerateResource.cache
+C:\Users\HP\Documents\Проекты Вани\Проекты по программированию 9.5\Решение 1\Минизадача 2\obj\Debug\Минизадача 2.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\Проекты Вани\Проекты по программированию 9.5\Решение 1\Минизадача 2\obj\Debug\Минизадача 2.exe
+C:\Users\HP\Documents\Проекты Вани\Проекты по программированию 9.5\Решение 1\Минизадача 2\obj\Debug\Минизадача 2.pdb
