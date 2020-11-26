@@ -40,12 +40,11 @@ namespace Машкарин_Иван_Практика4
                 capacity++;
                 size++;
                 tail++;
-                F[] _array1 = new F[capacity];
+                F[] _array1 = new F[size];
                 Array.Copy(_array, _array1, tail);
                 _array1[tail] = h;
                 _array = new F[size];
                 Array.Copy(_array1, _array, size);
-
         }
         public F _Dequeue()
         {
@@ -54,6 +53,7 @@ namespace Машкарин_Иван_Практика4
                 throw new Exception();
             }
                 F h = _array[head];
+            capacity--;
             size--;
             head++;
             return h;
@@ -69,9 +69,10 @@ namespace Машкарин_Иван_Практика4
         public void _Clear()
         {
             _array = new F[1];
-            head = 0;
             capacity = 1;
-            size = 1;
+            size = 0;
+            tail = -1;
+            head = 0;
         }
     }
 }
